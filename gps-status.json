@@ -1,0 +1,20 @@
+{
+    "SE1": {
+        "lat": 21.0285,
+        "lng": 105.8542,
+        "speed": 48,
+        "heading": 120,
+        "battery": 82,
+        "signal": 4,
+        "timestamp": 1710000000
+    },
+    "SE2": {
+        "lat": 21.0300,
+        "lng": 105.8500,
+        "speed": 50,
+        "heading": 130,
+        "battery": 85,
+        "signal": 5,
+        "timestamp": 1710000000
+    }
+}
